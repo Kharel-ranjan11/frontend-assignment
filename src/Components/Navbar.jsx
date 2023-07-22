@@ -14,7 +14,7 @@ export const Navbar = () => {
                 <div className='font-bold text-2xl cursor-pointer flex items-center font-mono 
       text-gray-800'>
                     <span className='text-3xl text-indigo-600 mr-1 pt-2'>
-                        <img src="../src/assets/fav.png" alt="" className='h-12' />
+                        <img src="https://kharel-ranjan11.github.io/Ecommrece-MD-/assest/image/fav.png" alt="" className='h-12' />
                     </span>
                     <span className='translate-y-1'>
                         Online<span className='text-indigo-600'>Store
