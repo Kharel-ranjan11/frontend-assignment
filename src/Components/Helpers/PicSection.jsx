@@ -5,7 +5,7 @@ export const PicSection = () => {
         <>
 
             <div className=' PHeight relative   overflow-hidden'>
-                <img src="https://rare-gallery.com/thumbs/5402558-people-group-pose-building-city-street-bench-woman-men-outdoor-sock-man-sitting-person-fence-short-jacket-standing-portrait-fashion-public-domain-images.jpg"
+                <img src="https://images.unsplash.com/photo-1464666495445-5a33228a808e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2012&q=80"
                     className='object-cover img-fluid'
                     alt="Ca.jpg" style={{ width: '100%' }} />
                 <div className='absolute top-0 text-white flex flex-col  items-center justify-center  h-[100%] ' style={{ width: '100%', background: 'rgba(11, 14, 77, 0.303)' }} >
